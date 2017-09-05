@@ -15,7 +15,7 @@ from discord import utils
 from discord.ext.commands import Bot
 logging.basicConfig(level = logging.INFO)
 
-#Definition of BlitzKrieg's prefix.
+#Definition of Annabelle's prefix.
 my_bot = Bot(command_prefix = "&")
 
 
